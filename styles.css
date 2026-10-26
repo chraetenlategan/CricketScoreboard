@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.nav-items{
+    background-color: rgb(3, 148, 206);
+    font-size: 3vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    
+
+}
+
+.nav-bar{
+    text-decoration: none;
+}
+
+.logo{
+    border: 100px;
+    position: fixed;
+    padding: auto;
+}
